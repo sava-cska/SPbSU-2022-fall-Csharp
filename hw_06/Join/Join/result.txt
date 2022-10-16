@@ -1,0 +1,8 @@
+Masha	ggg	1234	ugu	ggg	1234	ugu
+Masha	Olya	Egor	00	ggg	1234	ugu
+Oleg	123	566	ugnks	123	566	ugnks
+Oleg	123	566	ugnks	Oleg	Oleg	Oleg
+Oleg	Oleg	Oleg	Oleg	123	566	ugnks
+Oleg	Oleg	Oleg	Oleg	Oleg	Oleg	Oleg
+Vasya	gg	ff	ss	gg	hh	ss
+vaSyA	gg	hh	ss	gg	hh	ss

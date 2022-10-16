@@ -1,0 +1,7 @@
+Oleg	123	566	ugnks
+Masha	ggg	1234	ugu
+Masha	Olya	Egor	00
+Oleg	Oleg	Oleg	Oleg
+Vasya	gg	ff	ss
+vaSyA	gg	hh	ss
+misha	1	2	3
