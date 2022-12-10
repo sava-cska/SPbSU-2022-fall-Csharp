@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooBar", "FooBar\FooBar.csproj", "{AB6E36A9-CDD1-45DC-AC4C-B4C8C2D85478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6E36A9-CDD1-45DC-AC4C-B4C8C2D85478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6E36A9-CDD1-45DC-AC4C-B4C8C2D85478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6E36A9-CDD1-45DC-AC4C-B4C8C2D85478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6E36A9-CDD1-45DC-AC4C-B4C8C2D85478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC83413-C763-494D-A278-083CF8BE43B0}
+	EndGlobalSection
+EndGlobal
